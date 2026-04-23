@@ -22,23 +22,15 @@ The Arduino processes the signal and activates:
 3. LED (visual alert for night safety)
 This multi-alert system helps prevent accidents and ensures safer navigation.
 # How to Run the Code - 
-Step-1: Install Software
-         Download and install Arduino IDE.
-Step 2: Connect Hardware
-        Assemble the circuit as described above. Connect Arduino Nano to your laptop using USB cable.
-Step 3: Upload Code
-        Open Arduino IDE.
-        Copy and paste project code.
-Step 4: Select board:
- [ Tools → Board → Arduino Nano ].
-Step 5: Select correct port:
- [ Tools → Port → COM (your device) ].
-Step 6: Click Upload button.
-Step 7: Power the Device-
-     1. After uploading, power the circuit using battery.
-     2. The system will start automatically.
-Step 8: Test the Project
-        Place an object within 0–70 cm.
+1. Install Software
+2. Download and install Arduino IDE.
+3. Connect Hardware - Assemble the circuit as described above. Connect Arduino Nano to your laptop using USB cable.
+4. Upload Code -  Open Arduino IDE and Copy and paste project code.
+5. Select board - [ Tools → Board → Arduino Nano ].
+6. Select correct port: - [ Tools → Port → COM (your device) ].
+7. Click Upload button.
+8. Power the Device-  After uploading, power the circuit using battery. The system will start automatically.
+9. Test the Project-  Place an object within 0–70 cm.
 # Observe:
 1. Buzzer beeps
 2. Vibrator vibrates
