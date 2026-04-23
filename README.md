@@ -1,9 +1,9 @@
 # Smart Blind Stick (Restoring Independence Through Technology) -
 The Smart Blind Stick with Vibrator is an assistive device designed to help visually impaired individuals detect obstacles and navigate safely. It uses an ultrasonic sensor to detect objects within a range of 0–70 cm and alerts the user through vibration, sound, and light signals.
 # Objective -
-Provide a low-cost navigation solution
-Improve safety using real-time obstacle detection
-Enable independent movement for visually impaired users
+1. Provide a low-cost navigation solution
+2. Improve safety using real-time obstacle detection
+3. Enable independent movement for visually impaired users
 # Components Used - 
 1. Ultrasonic Sensor (HC-SR04)
 2. Arduino Nano
