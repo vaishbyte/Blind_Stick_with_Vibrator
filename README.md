@@ -30,9 +30,9 @@ Step 3: Upload Code
         Open Arduino IDE
         Copy and paste project code
 Step 4: Select board:
-      # Tools → Board → Arduino Nano
+# Tools → Board → Arduino Nano
 Step 5: Select correct port:
-      # Tools → Port → COM (your device)
+# Tools → Port → COM (your device)
 Step 6: Click Upload button:
 Step 7: Power the Device
      1. After uploading, power the circuit using battery
